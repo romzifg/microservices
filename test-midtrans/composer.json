@@ -1,0 +1,17 @@
+{
+    "name": "ghost/test-midtrans",
+    "autoload": {
+        "psr-4": {
+            "Ghost\\TestMidtrans\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Romzi Farhan",
+            "email": "romzifg@gmail.com"
+        }
+    ],
+    "require": {
+        "midtrans/midtrans-php": "^2.5"
+    }
+}
